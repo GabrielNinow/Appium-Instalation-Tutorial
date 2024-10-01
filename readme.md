@@ -78,7 +78,7 @@ E adicionar os caminhos na variavel PATH: `adb, emulator, apkanalyzer.`
 ![alt text](images/image.png)
 2. Crie uma variável no escopo global "Variáveis do sistema": `JAVA_HOME`, `ANDROID_HOME` e `ANDROID_SDK_ROOT`
 ![alt text](images/image-5.png)
-3. As variaveis `ANDROID_HOME` e `ANDROID_SDK_ROOT` tem o mesmo path como valor, que pegamos anteriormente no SDK do android
+3. As variaveis `ANDROID_HOME` e `ANDROID_SDK_ROOT` tem o mesmo path como valor, que pegamos anteriormente no SDK do Android Studio qual salvamos anteriormente
 ![alt text](images/image-7.png)
 4. Na variavel path, vamos clicar em editar e adicionar as ferramentas de SDK do android
 ![alt text](images/image-9.png)
