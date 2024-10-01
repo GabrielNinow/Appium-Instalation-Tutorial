@@ -60,7 +60,7 @@ a primeira coisa que precisamos fazer, é instalar o node, para instalar o appiu
 1. Efetuar o download da ultima versão do Android Studio: [Link de download do Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapXeVRD4bNOHN-t-W5ITu0fpXsaQHrkIoGumtc6YPVHEvcu-dOj1rywaAlHcEALw_wcB&gclsrc=aw.ds&hl=pt-br)
 2. Faça a instalação normalmente.
 3. Crie um projeto qualquer para poder acessar as SDKs e Emuladores
-4. Clique na engrenagem, e em SDK Manager
+4. Clique na engrenagem, e em SDK Manager para baixar as ferramentas do android
 ![alt text](images/image-1.png)
 5. Baixe a ultima versão oficial do android, para evitar conflitos com o teste do app na aba de `SDK platforms`
 ![alt text](images/image-2.png)
