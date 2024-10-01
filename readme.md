@@ -61,7 +61,7 @@ a primeira coisa que precisamos fazer, é instalar o node, para instalar o appiu
 2. Faça a instalação normalmente.
 3. Crie um projeto qualquer para poder acessar as SDKs e Emuladores
 4. Clique na engrenagem, e em SDK Manager
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 5. Baixe a ultima versão oficial do android, para evitar conflitos com o teste do app na aba de `SDK platforms`
 ![alt text](image-2.png)
 6. Baixe  `Android SDK CLI, Android Emulator, Android SDK Platform-Tools` na aba de `SDK Tools`
