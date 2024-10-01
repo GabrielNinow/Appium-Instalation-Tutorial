@@ -63,11 +63,11 @@ a primeira coisa que precisamos fazer, é instalar o node, para instalar o appiu
 4. Clique na engrenagem, e em SDK Manager
 ![alt text](images/image-1.png)
 5. Baixe a ultima versão oficial do android, para evitar conflitos com o teste do app na aba de `SDK platforms`
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 6. Baixe  `Android SDK CLI, Android Emulator, Android SDK Platform-Tools` na aba de `SDK Tools`
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 7. Anote o path do SDK, para adicionar à variável path futuramente
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ## Setando variáveis de ambiente do android
 Precisamos setar algumas váriaveis de ambiente, para o funcionamento do appium, sendo elas: `JAVA_HOME, ANDROID_HOME.`
@@ -75,15 +75,15 @@ Precisamos setar algumas váriaveis de ambiente, para o funcionamento do appium,
 E adicionar os caminhos na variavel PATH: `adb, emulator, apkanalyzer.`
 
 1. Abrir variaveis do sistema: `Tecla windows > Digite "variaveis" > Clicar em Variaveis do sistema` 
-![alt text](image.png)
+![alt text](images/image.png)
 2. Crie uma variável no escopo global "Variáveis do sistema": `JAVA_HOME`, `ANDROID_HOME` e `ANDROID_SDK_ROOT`
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 3. As variaveis `ANDROID_HOME` e `ANDROID_SDK_ROOT` tem o mesmo path como valor, que pegamos anteriormente no SDK do android
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 4. Na variavel path, vamos clicar em editar e adicionar as ferramentas de SDK do android
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 ### Após setar as variáveis
 Executar o comando `appium-doctor` no terminal para certificar que tudo está como o necessário, o resultado deve ser semelhante à:
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 caso tenha um resultado parecido a instalação está concluida
